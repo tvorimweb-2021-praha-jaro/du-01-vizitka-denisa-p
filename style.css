@@ -1,0 +1,26 @@
+body {
+    margin: 0 auto;
+    max-width: 85em;
+    font-family: "Arial", sans-serif;
+    line-height: 1.5em;
+    padding: 4em 1em;
+    color: #282425;
+    background-color: #fff1e6;
+  }
+
+h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+}
+
+h1,
+h2,
+h3,
+a{
+    color:#756158;
+}
+
+img {
+    width: 20%;
+    border-radius: 20px;
+    }
